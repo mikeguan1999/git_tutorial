@@ -1,2 +1,0 @@
-Hi, my name is Michael and I love git!
-
